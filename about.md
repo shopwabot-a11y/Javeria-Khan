@@ -6,54 +6,45 @@ permalink: /about/
 
 ## About Me
 
-I'm **Basit Rahim**, a Computer Science graduate from the **Lahore University of Management Sciences (LUMS)**, where I graduated with Distinction and was on the Dean's Honor List for three consecutive years.
+I'm **Javeria Khan**, a graduate of the **National University of Modern Languages (NUML)** with expertise in English language and literature. I am currently based in the **United Kingdom** as part of the STEP program, gaining international exposure and cross-cultural experience.
 
-I'm currently a **Research Associate at PAMS (Pakistan Alliance for Maths and Science)**, where I design agent-based modeling frameworks to investigate student dropout in Pakistan and simulate policy interventions for government stakeholders. I collaborate with CITY @ LUMS on GIS-based spatial analysis and work at the intersection of computational social science, education research, and data-driven policy design.
+I am the **Founder of Baftique**, a social enterprise dedicated to the **economic empowerment and upliftment of women in Chitral**, Pakistan. Through Baftique, I work to preserve the rich cultural heritage of Chitral while creating sustainable livelihoods for women through traditional handcrafts, education, and community advocacy.
 
 ---
 
-## Professional Background
+## Baftique
 
-**Research Associate** &mdash; PAMS *(June 2025 &ndash; Present)*
-- Agent-based modeling for education policy research
-- GIS mapping and spatial analysis with CITY @ LUMS
-- Large-scale data collection and survey design
+**Founder & Lead** *(2024 &ndash; Present)*
 
-**AI Engineer** &mdash; ShipIn *(June 2024 &ndash; June 2025)*
-- Scalable backend systems with Rust for edge AI platforms
-- Real-time data pipelines and database optimization
-
-**Python & Data Engineer** &mdash; Turing *(Aug 2024 &ndash; May 2025)*
-- LLM training with RLHF for coding and data science
-- Model evaluation and failure case analysis
-
-**Software Engineer** &mdash; Strategic Systems International *(Jul 2023 &ndash; Aug 2024)*
-- Test infrastructure for ASMPT line control systems
-- RabbitMQ simulation frameworks and REST APIs
+- Founded Baftique to empower women in Chitral through sustainable economic opportunities rooted in local culture and tradition
+- Lead cultural preservation initiatives for traditional handcrafts, weaving, and indigenous art forms
+- Build partnerships connecting Chitrali women artisans with broader markets
+- Advocate for women's rights and education in remote communities
+- Write and publish on cultural preservation and women's empowerment
 
 ---
 
 ## Education
 
-**Lahore University of Management Sciences (LUMS)**
-- B.S. Computer Science (Aug 2019 &ndash; June 2023)
-- Graduation with Distinction
-- Dean's Honor List: 2019-2020, 2020-2021, 2021-2022
+**National University of Modern Languages (NUML)**
+- Bachelor's Degree in English
+- Islamabad, Pakistan
+
+**STEP Program &mdash; United Kingdom**
+- Short-Term Exchange Program
+- International exposure and cross-cultural learning
 
 ---
 
-## Projects
+## Writing & Publications
 
-- [**Equity Equation Project**](https://equityequationproject.streamlit.app/) &mdash; Interactive data-driven education equity analysis tool built with Streamlit
-- [**Plutus**](https://github.com/Basit-Rahim/plutus) &mdash; Full-stack financial application deployed on [Vercel](https://vercel.com/)
-- **AI Tutor** &mdash; AI-powered personalized learning platform for 150+ schools in Pakistan
-- **Early Detection of Third-Party Abuse on Twitter** &mdash; ML model for detecting abusive third-party apps via early activity analysis
+- [**The Silent Disappearance of Culture**](https://baftique.medium.com/the-silent-disappearance-of-culture-the-urgent-need-to-preserve-our-traditions-bb96f8afbffc) &mdash; On the urgent need to preserve our traditions
+- More articles on [**Medium**](https://baftique.medium.com/)
 
 ---
 
 ## Get in Touch
 
-- Email: [basitrahim66@gmail.com](mailto:basitrahim66@gmail.com)
-- GitHub: [Basit-Rahim](https://github.com/Basit-Rahim)
-- LinkedIn: [Basit Rahim](https://www.linkedin.com/in/basit-rahim-139730154/)
-- Twitter: [BasitRahim66](https://twitter.com/BasitRahim66)
+- LinkedIn: [Javeria Khan](https://www.linkedin.com/in/javeria-khan-462979322/)
+- Instagram: [@baftique_](https://www.instagram.com/baftique_/)
+- Medium: [Baftique](https://baftique.medium.com/)

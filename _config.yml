@@ -9,14 +9,16 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Hello. I'm Basit Rahim."
-email: 'basitrahim66@gmail.com'
-description: "Research Associate at PAMS (Pakistan Alliance for Maths and Science), working on agent-based modeling and computational social science to investigate education policy in Pakistan. CS graduate from LUMS with Distinction. Previously AI Engineer at ShipIn, Python & Data Engineer at Turing, and Software Engineer at SSI — building scalable systems in Rust, training LLMs with RLHF, and engineering robust APIs."
-url: "https://basit-rahim.github.io"   # No trailing slash
-baseurl: "/profile"                    # The repo name, with leading slash
-twitter_username: 'BasitRahim66'
-github_username: 'Basit-Rahim'
-linkedin_url: 'https://www.linkedin.com/in/basit-rahim-139730154/'
+title: "Hello. I'm Javeria Khan."
+email: ''
+description: "Founder of Baftique — a social enterprise dedicated to uplifting women in Chitral through cultural preservation, handcraft, and economic empowerment. English language expert, NUML graduate, and STEP scholar in the United Kingdom. Writer, advocate, and changemaker passionate about preserving indigenous traditions while building sustainable livelihoods for women."
+url: "https://javeria-khan.github.io"   # No trailing slash
+baseurl: ""                              # Update with repo name if needed
+twitter_username: ''
+github_username: ''
+linkedin_url: 'https://www.linkedin.com/in/javeria-khan-462979322/'
+instagram_url: 'https://www.instagram.com/baftique_/'
+medium_url: 'https://baftique.medium.com/'
 
 # Build settings
 markdown: kramdown
@@ -86,8 +88,8 @@ pagination:
 ############################################################
 
 ### Phantom settings
-footer_text: '&copy; 2025 Basit Rahim'
-admin_name: 'Basit Rahim'
+footer_text: '&copy; 2025 Javeria Khan'
+admin_name: 'Javeria Khan'
 google_analytics: "UA-9999999-99" # Update with your own tracking ID
 enable_contact: false
 
@@ -95,7 +97,7 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/#experience', text: 'Experience' }
-  - { url: '/#projects', text: 'Projects' }
+  - { url: '/#baftique', text: 'Baftique' }
+  - { url: '/#writing', text: 'Writing' }
   - { url: '/#education', text: 'Education' }
   - { url: '/#skills', text: 'Skills' }
