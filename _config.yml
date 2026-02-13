@@ -12,8 +12,8 @@
 title: "Hello. I'm Javeria Khan."
 email: ''
 description: "Founder of Baftique — a social enterprise dedicated to uplifting women in Chitral through cultural preservation, handcraft, and economic empowerment. English language expert, NUML graduate, and STEP scholar in the United Kingdom. Writer, advocate, and changemaker passionate about preserving indigenous traditions while building sustainable livelihoods for women."
-url: "https://javeria-khan.github.io"   # No trailing slash
-baseurl: ""                              # Update with repo name if needed
+url: "https://shopwabot-a11y.github.io"   # No trailing slash
+baseurl: "/Javeria-Khan"                  # The repo name, with leading slash
 twitter_username: ''
 github_username: ''
 linkedin_url: 'https://www.linkedin.com/in/javeria-khan-462979322/'
