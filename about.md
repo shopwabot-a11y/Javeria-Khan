@@ -6,33 +6,55 @@ permalink: /about/
 
 ## About Me
 
-I'm **Javeria Khan**, a graduate of the **National University of Modern Languages (NUML)** with expertise in English language and literature. I am currently based in the **United Kingdom** as part of the STEP program, gaining international exposure and cross-cultural experience.
+I'm **Javeria Khan**, currently pursuing a **Master of Arts (MA) in Muslim Societies and Civilisations** at **SOAS University of London** and a **Postgraduate Diploma (PGDip) in Teaching and Reflective Practice** at **UCL**. I hold a **Bachelor of Science (BS) in English Studies** from the **National University of Modern Languages (NUML), Islamabad**.
 
 I am the **Founder of Baftique**, a social enterprise dedicated to the **economic empowerment and upliftment of women in Chitral**, Pakistan. Through Baftique, I work to preserve the rich cultural heritage of Chitral while creating sustainable livelihoods for women through traditional handcrafts, education, and community advocacy.
 
 ---
 
-## Baftique
+## Current Roles
 
-**Founder & Lead** *(2024 &ndash; Present)*
+**Trainee Teacher** *(Active)*
+- The Archer Academy, London
 
-- Founded Baftique to empower women in Chitral through sustainable economic opportunities rooted in local culture and tradition
-- Lead cultural preservation initiatives for traditional handcrafts, weaving, and indigenous art forms
-- Build partnerships connecting Chitrali women artisans with broader markets
-- Advocate for women's rights and education in remote communities
-- Write and publish on cultural preservation and women's empowerment
+**STEP Trainee Teacher** *(Active)*
+- The Institute of Ismaili Studies
+
+**Freelance Writer** *(Active)*
+- Affiliate articles and entertainment industry related writing
+
+**Founder & Lead of Baftique** *(2024 &ndash; Present)*
+- Social enterprise empowering women in Chitral through cultural preservation and economic opportunity
+
+---
+
+## Previous Work
+
+**IELTS Instructor** *(2024 &ndash; 2025)*
+- Educatio Consultancy (Career Advisers)
 
 ---
 
 ## Education
 
+**SOAS University of London**
+- Master of Arts (MA) in Muslim Societies and Civilisations
+- London, United Kingdom
+
+**University College London (UCL)**
+- Postgraduate Diploma (PGDip) in Teaching and Reflective Practice
+- London, United Kingdom
+
 **National University of Modern Languages (NUML)**
-- Bachelor's Degree in English
+- Bachelor of Science (BS) in English Studies
 - Islamabad, Pakistan
 
-**STEP Program &mdash; United Kingdom**
-- Short-Term Exchange Program
-- International exposure and cross-cultural learning
+---
+
+## Volunteer Work
+
+**District Commissioner, District 1, Upper Chitral** *(2022 &ndash; 2024)*
+- Pakistan Girl Guides Association
 
 ---
 

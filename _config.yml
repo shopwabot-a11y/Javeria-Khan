@@ -11,7 +11,7 @@
 # Site settings
 title: "Hello. I'm Javeria Khan."
 email: ''
-description: "Founder of Baftique, a social enterprise dedicated to uplifting women in Chitral through cultural preservation, handcraft, and economic empowerment. English language expert, NUML graduate, and STEP scholar in the United Kingdom. Writer, advocate, and changemaker passionate about preserving indigenous traditions while building sustainable livelihoods for women."
+description: "MA in Muslim Societies and Civilisations (SOAS, University of London) | PGDip in Teaching and Reflective Practice (UCL) | STEP Trainee Teacher at The Institute of Ismaili Studies | Trainee Teacher at The Archer Academy London | Founder of Baftique, empowering women in Chitral through cultural preservation and economic opportunity | Freelance writer and advocate passionate about preserving indigenous traditions while building sustainable livelihoods for women."
 url: "https://shopwabot-a11y.github.io"   # No trailing slash
 baseurl: "/Javeria-Khan"                  # The repo name, with leading slash
 twitter_username: ''
@@ -100,4 +100,6 @@ nav_item:
   - { url: '/#baftique', text: 'Baftique' }
   - { url: '/#writing', text: 'Writing' }
   - { url: '/#education', text: 'Education' }
+  - { url: '/#experience', text: 'Experience' }
+  - { url: '/#volunteer', text: 'Volunteer' }
   - { url: '/#skills', text: 'Skills' }
